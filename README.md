@@ -1,17 +1,18 @@
-# AlpskoSmucanje
+# Avtomobili
 
-Analiziral bom zadnjih 5 sezon v alpskem smucanju (moski) za svetovni pokal. 
-Podatke bom pobral iz uradne spletne strani FIS (https://www.fis-ski.com/en). 
+Analiziral bom avtomobile, ki se prodajajo na spletni strani avto.net. 
 
-Za vsako tekmo bom zajel:
-* kraj in datum tekme
-* prvih 12 smucarjev
-
-Za vsakega smucarja bom zajel:
-* drzavo, za katero smuca
-* starost (datum rojstva)
+Za vsak avto bom zajel:
+* ime avta (znamka, model...)
+* prvo registracijo
+* gorivo
+* menjalnik
+* prostornino motorja
+* moc motorja
+* baterijo 
+* redno in pa akcijsko ceno
 
 Delovne hipoteze:
-* Ali v smucanju obstaja "prednost domacega terena"?
-* Ali so kateri tekmovalci se posebaj dobri na spomladanskih tekmah, ko so temperature obicajno visje?
-* Pri kateri starosti je smucar v najboljsi formi?
+* Ali so novejsi avtomobili mocnejsi?
+* Ali imajo elektricni avtomobili visjo ceno glede na moc kot avtomobili z notranjim izgorevanjem?
+* Katere so najdrazje in katere najcenejse znamke avtomobilov?
